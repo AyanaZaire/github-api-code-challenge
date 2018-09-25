@@ -1,0 +1,10 @@
+.App {
+  width: 80%;
+  margin: 0 auto;
+  padding: 50px 0;
+}
+
+.user_info_container {
+	display: grid;
+	grid-template-columns: 2fr 4fr;
+}
